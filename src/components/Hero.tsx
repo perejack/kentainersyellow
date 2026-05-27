@@ -50,7 +50,7 @@ const Hero = () => {
               asChild
               className="bg-white/10 border-2 border-white text-white hover:bg-white hover:text-primary text-lg px-8 py-6 backdrop-blur-sm"
             >
-<a href="https://wa.me/254734570906">Contact Us</a>
+<a href="https://wa.me/254736626373">Contact Us</a>
             </Button>
           </div>
         </div>
