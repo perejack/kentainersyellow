@@ -26,11 +26,11 @@ const ProductDetails = () => {
 
   const handleWhatsAppOrder = () => {
     const message = `Hello! I'd like to order the ${product.capacity} tank (KES ${product.price.toLocaleString()}).`;
-window.open(`https://wa.me/254786006327?text=${encodeURIComponent(message)}`, "_blank");
+window.open(`https://wa.me/254789178046?text=${encodeURIComponent(message)}`, "_blank");
   };
 
   const handlePhoneCall = () => {
-    window.location.href = "tel:+254786006327";
+    window.location.href = "tel:+254789178046";
   };
 
   return (
@@ -115,7 +115,7 @@ window.open(`https://wa.me/254786006327?text=${encodeURIComponent(message)}`, "_
                     className="bg-gradient-primary hover:opacity-90 text-primary-foreground group"
                   >
                     <Phone className="mr-2 w-5 h-5 group-hover:scale-110 transition-transform" />
-                    Call +254786006327
+                    Call +254789178046
                   </Button>
                 </div>
               </Card>

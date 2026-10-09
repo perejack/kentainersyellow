@@ -61,11 +61,11 @@ const Header = () => {
           {/* Contact Info - Visible on all screen sizes */}
           <div className="hidden sm:flex items-center space-x-4">
             <a
-              href="tel:+254786006327"
+              href="tel:+254789178046"
               className="flex items-center space-x-2 text-foreground hover:text-primary transition-colors"
             >
               <Phone className="w-4 h-4" />
-              <span className="font-semibold">+254786006327</span>
+              <span className="font-semibold">+254789178046</span>
             </a>
           </div>
 
@@ -83,11 +83,11 @@ const Header = () => {
         {/* Mobile Contact (visible only on mobile) */}
         <div className="flex sm:hidden items-center justify-end mt-2">
           <a
-            href="tel:+254786006327"
+            href="tel:+254789178046"
             className="flex items-center space-x-2 text-sm text-foreground hover:text-primary transition-colors"
           >
             <Phone className="w-4 h-4" />
-            <span className="font-semibold">+254786006327</span>
+            <span className="font-semibold">+254789178046</span>
           </a>
         </div>
 
